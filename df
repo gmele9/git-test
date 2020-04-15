@@ -1,0 +1,65 @@
+[33mcommit a665fd5233e16e95a78025418d01a5e8a7f93222[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 47573d5 fd2dcd2
+Author: Giacomo Mele <g.mele9@campus.unimib.it>
+Date:   Wed Apr 15 18:16:03 2020 +0200
+
+    Merge branch 'master' of https://github.com/gmele9/git-test
+
+[33mcommit 47573d5ed0d5342e1d68d07aee4b0b93c7c34d06[m
+Author: Giacomo Mele <g.mele9@campus.unimib.it>
+Date:   Wed Apr 15 18:08:21 2020 +0200
+
+    A comment from developer 1
+
+[33mcommit fd2dcd235a5bdf5f7fb54861511122e5505c01f9[m
+Author: gmele9 <63653422+gmele9@users.noreply.github.com>
+Date:   Wed Apr 15 18:06:58 2020 +0200
+
+    Update MainActivity.java
+
+[33mcommit 894516356fd65f6f3f848dcfb7cf2da215bbed83[m
+Merge: 9f446e0 e133bb2
+Author: Giacomo Mele <g.mele9@campus.unimib.it>
+Date:   Wed Apr 15 17:49:59 2020 +0200
+
+    Merge branch "test"
+    
+    More details...
+
+[33mcommit 9f446e0c514ccef63ae379fce3d8f0421a84d1b9[m
+Author: Giacomo Mele <g.mele9@campus.unimib.it>
+Date:   Wed Apr 15 17:49:26 2020 +0200
+
+    Comment from master branch
+
+[33mcommit e133bb2f19fca44bf80b1b483af7a8efed741bb8[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: Giacomo Mele <g.mele9@campus.unimib.it>
+Date:   Wed Apr 15 17:47:35 2020 +0200
+
+    Second commit from test branch
+
+[33mcommit c848294453d152b9141f9994df7923efae3383f0[m
+Author: Giacomo Mele <g.mele9@campus.unimib.it>
+Date:   Wed Apr 15 17:36:50 2020 +0200
+
+    Commit from test branch
+
+[33mcommit 75e046214cdae5f41aca6a94dd26446661cd4130[m
+Author: Giacomo Mele <g.mele9@campus.unimib.it>
+Date:   Tue Apr 14 16:39:21 2020 +0200
+
+    Update activity_main.xml
+
+[33mcommit d603257ba597cd50e29a27bdb2c980cd8803b441[m
+Author: Giacomo Mele <g.mele9@campus.unimib.it>
+Date:   Tue Apr 14 16:15:17 2020 +0200
+
+    Update .gitignore file
+
+[33mcommit a53a963028c7fbd19af6bd1c5a4bfd6a8d22590d[m
+Author: Giacomo Mele <g.mele9@campus.unimib.it>
+Date:   Tue Apr 14 15:42:30 2020 +0200
+
+    Initial commit
+    
+    More details...
