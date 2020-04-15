@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         // a commento from test branch
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        // a second commento from test branch
     }
 }
